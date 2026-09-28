@@ -13,6 +13,10 @@ public class Q45SecondsToTimeConverstion {
 
         System.out.println("Input seconds: " + seconds);
         System.out.printf("%02d:%02d:%02d%n", p2, p3, p1);
+        
+        
+        
+        
     }
     
 }
